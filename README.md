@@ -1,4 +1,4 @@
-# 📈 HubSpot CRM Lead Automation: AI-Powered Qualification System 🚀
+# 📈 HubSpot CRM Lead Automation: AI-Powered Qualification System 
 
 ![n8n](https://img.shields.io/badge/Workflow-n8n-FF6C37?style=flat&logo=n8n&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/CRM-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
@@ -84,7 +84,6 @@ A dynamic **Switch Node** reads the AI score to determine the Deal's fate:
 
 ## ✍️ Author
 **Muneeb Ali Khan**
-- **GitHub:** [@Muneeb20019](https://github.com/Muneeb20019)
 - **LinkedIn:** [Muneeb Ali Khan](https://www.linkedin.com/in/muneeb-ali-khan-2a1675365)
 
 ---
